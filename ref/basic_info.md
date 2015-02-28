@@ -1,0 +1,1 @@
+* [Description of the SDSS spectra](http://www.sdss.org/dr12/spectro/catalogs/)
